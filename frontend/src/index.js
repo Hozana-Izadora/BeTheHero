@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// Classe padrão para render do resto da pagina
 ReactDOM.render(
   <React.StrictMode>
     <App />
